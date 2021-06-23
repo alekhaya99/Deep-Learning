@@ -1,2 +1,2 @@
 # Deep-Learning
-THis repo contains all the things realted to DL
+THis repo contains all the things realted to DL 
